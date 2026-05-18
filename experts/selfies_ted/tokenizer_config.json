@@ -1,0 +1,11 @@
+{
+  "cls_token": "[CLS]",
+  "mask_token": "[MASK]",
+  "model_max_length": 512,
+  "name_or_path": "/Users/indrapriyadarsinis/Desktop/Indra/MVP_v1/downstream/rhizome/src/rhizome/modelstore/zinc22-16B-tokenizer",
+  "pad_token": "[PAD]",
+  "sep_token": "[SEP]",
+  "special_tokens_map_file": "/u/indra/.cache/huggingface/transformers/410b9713b9ff338491c4439bb9c3426a17c79e66c5a02f0a729b5455a334037a.7da70648c6cb9951e284c9685f9ba7ae083dd59ed1d6d84bdfc0584a4ea94b6d",
+  "tokenizer_class": "PreTrainedTokenizerFast",
+  "unk_token": "[UNK]"
+}

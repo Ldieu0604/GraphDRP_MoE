@@ -1,0 +1,19 @@
+__pycache__/
+.DS_Store
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+# Chặn tuyệt đối các file nặng
+*.bin
+*.pt
+*.pth
+*.model
+*.pickles
+optimizer.pt
+data/
+processed/
+__pycache__/
+.gitattributes
